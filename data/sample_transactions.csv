@@ -1,0 +1,11 @@
+date,kind,category,amount,currency
+2026-09-01,income,salary,1500,EUR
+2026-09-02,expense,rent,650,EUR
+2026-09-04,expense,food,18.50,EUR
+2026-09-05,expense,transport,-12,EUR
+2026-09-06,expense,pizza,20,EUR
+2026-09-07,expense,food,abc,EUR
+2026-09-31,expense,leisure,35,EUR
+2026-13-01,expense,food,10,EUR
+2026-09-10,expense,leisure,0,EUR
+2026-09-12,expense,food,42.30,EUR

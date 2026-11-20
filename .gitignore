@@ -1,0 +1,15 @@
+# Files that should NOT go to GitHub
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# Data created when you run the program (each user creates their own)
+data/transactions.json
+data/backup*.json
+data/test_round_trip.json
+
+# Mac system file
+.DS_Store
