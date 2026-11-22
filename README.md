@@ -1,4 +1,4 @@
-# Personal Budget Manager — Release 1
+# Personal Budget Manager
 
 A small command-line tool to add, list and report income and expenses.
 Data is saved in `data/transactions.json`, so it is still there the next time you run the tool.
